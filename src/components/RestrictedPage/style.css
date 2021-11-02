@@ -1,0 +1,12 @@
+.botao {
+  background: #08b7ff;
+  height: 30px;
+  width: 100px;
+  border: 2px solid #0062ff;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.botao:hover {
+  filter: brightness(1.1);
+}
